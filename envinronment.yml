@@ -1,4 +1,4 @@
-name: ztdlbook
+name: tf2_keras
 channels:
 - defaults
 dependencies:
