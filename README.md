@@ -8,13 +8,13 @@
 
 
 # Tensorflow 2.0 and Keras: what's new, what's shared, what's different
-Repository for the talk on Tensorflow 2.0 and Keras: what's new, what's shared, what's different
+Repository for the talk on Tensorflow 2.0 and Keras: what's new, what's shared, what's different.
 
 ## Quick start guide
 
 #### Download and install Anaconda or Miniconda Python 3
 
-Download [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and then install it on your system.
+Download [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and then install it on your system.
 
 
 #### Open a terminal
@@ -67,6 +67,12 @@ You are good to go! Enjoy!
 
 
 ### Troubleshooting
+
+#### Updating the environment
+If you have previously created the environment and want to update it with the current env file type:
+```
+conda env update
+```
 
 #### Updating Conda
 
