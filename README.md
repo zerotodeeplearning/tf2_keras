@@ -10,6 +10,8 @@
 # Tensorflow 2.0 and Keras: what's new, what's shared, what's different
 Repository for the talk on Tensorflow 2.0 and Keras: what's new, what's shared, what's different.
 
+[Slides](http://bit.ly/2Wd9xpu)
+
 ## Quick start guide
 
 #### Download and install Anaconda or Miniconda Python 3
